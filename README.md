@@ -12,7 +12,7 @@ A simple Python game where the player tries to reach a randomly generated target
 ## 🛠️ Concepts Used
 
 * Python
-* `random`
+* random
 * User input
 * Conditional statements
 * Loops
